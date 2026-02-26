@@ -1,0 +1,246 @@
+[
+  {
+    "question": "What is DLR?",
+    "answer": "The german aerospace center."
+  },
+  {
+    "question": "What does DLR stand for in English, and what is its German name?",
+    "answer": "DLR is commonly referred to in English as the German Aerospace Center; in German it is Deutsches Zentrum für Luft- und Raumfahrt."
+  },
+  {
+    "question": "Is DLR only focused on spaceflight?",
+    "answer": "No. DLR's work spans aeronautics, space, energy, transport, security, and digitalization-related research, in addition to operating space mission activities."
+  },
+  {
+    "question": "What is DLR's core role in Germany's research landscape?",
+    "answer": "DLR is a major applied-research organization that conducts R&D, develops technologies and demonstrators, and supports public and industrial stakeholders with scientific expertise in aerospace and related fields."
+  },
+  {
+    "question": "How does DLR relate to Germany's national space activities?",
+    "answer": "DLR carries out space research and development and also performs key functions for Germany's space program management, including supporting mission-related planning and coordination activities."
+  },
+  {
+    "question": "What kinds of space missions is DLR involved in?",
+    "answer": "DLR contributes to Earth observation, planetary exploration, space science, satellite technology, and human spaceflight research, often in international partnerships (e.g., ESA-led and other multinational missions)."
+  },
+  {
+    "question": "What is Earth observation in the context of DLR's work?",
+    "answer": "Earth observation refers to using satellites, airborne sensors, and data analytics to monitor the planet—such as climate variables, land use, disasters, and environmental change."
+  },
+  {
+    "question": "What does DLR do in aeronautics research?",
+    "answer": "DLR researches aircraft and rotorcraft technologies, including aerodynamics, lightweight structures, propulsion concepts, flight systems, noise reduction, and emissions reduction."
+  },
+  {
+    "question": "What is a technology demonstrator, and why does DLR build them?",
+    "answer": "A technology demonstrator is a prototype or experimental system used to prove a concept works under realistic conditions; DLR uses demonstrators to reduce risk and accelerate transfer to operational use."
+  },
+  {
+    "question": "How does DLR contribute to energy research?",
+    "answer": "DLR works on topics such as renewable energy systems, energy storage, sector coupling, hydrogen technologies, and system analysis to support resilient and low-carbon energy transitions."
+  },
+  {
+    "question": "What transport topics does DLR research?",
+    "answer": "DLR studies mobility and transport systems, including traffic management, rail and road systems, automated and connected mobility, logistics, and data-driven transport planning."
+  },
+  {
+    "question": "What is DLR's role in security research?",
+    "answer": "DLR conducts research that can support civil security and resilience, such as remote sensing for crisis response, system analysis, and technologies that improve safety and situational awareness."
+  },
+  {
+    "question": "Does DLR operate research infrastructure beyond labs?",
+    "answer": "Yes. DLR operates specialized large-scale research infrastructure such as wind tunnels, test facilities, simulation environments, and mission/operations capabilities for certain space activities."
+  },
+  {
+    "question": "How does DLR collaborate internationally?",
+    "answer": "DLR collaborates with organizations like ESA and numerous international space agencies, research institutes, and universities through joint missions, projects, and data-sharing partnerships."
+  },
+  {
+    "question": "What is ESA and why is it relevant to DLR?",
+    "answer": "ESA is the European Space Agency. It is relevant because Germany is a major ESA member state and DLR frequently contributes expertise, instruments, technologies, and mission support in ESA programs."
+  },
+  {
+    "question": "What is DLR's approach to innovation transfer?",
+    "answer": "DLR aims to move research results into practice via industry collaborations, licensing, spin-offs, joint development projects, and applied demonstrators."
+  },
+  {
+    "question": "What is DLR's involvement in climate research?",
+    "answer": "DLR contributes through Earth observation, atmospheric research, aviation impacts studies, and energy/transport system analyses that help quantify and mitigate climate impacts."
+  },
+  {
+    "question": "What kinds of digital technologies are important for DLR?",
+    "answer": "Key digital technologies include high-performance computing, AI/ML for data analysis, digital twins and simulation, secure communications, and software-intensive systems engineering."
+  },
+  {
+    "question": "How does DLR support industry?",
+    "answer": "DLR supports industry by providing R&D collaboration, access to testing and simulation infrastructure, expertise in certification-relevant research topics, and joint technology development."
+  },
+  {
+    "question": "Why is systems analysis important in DLR's work?",
+    "answer": "Systems analysis helps evaluate complex interactions—such as energy grids, transport networks, and climate impacts—so policymakers and industry can compare scenarios and make evidence-based decisions."
+  },
+  {
+    "question": "What is one practical example of how DLR research can affect everyday life?",
+    "answer": "DLR research can improve everyday life through cleaner and quieter aircraft technologies, more efficient traffic and logistics planning, better disaster monitoring via satellites, and more reliable renewable-energy integration."
+  },
+  {
+    "question": "What is the full name of DLR's KI institute in English?",
+    "answer": "It is the DLR Institute for AI Safety and Security."
+  },
+  {
+    "question": "What does the Institute for AI Safety and Security say it researches and develops?",
+    "answer": "AI-related methods, processes, algorithms, technologies, and execution or system environments, with an emphasis on operational and attack security for AI-based solutions."
+  },
+  {
+    "question": "What are the institute's five departments?",
+    "answer": "AI Engineering; Algorithms & Hybrid Solutions; Safety-Critical Data Infrastructures; Execution Environments & Innovative Computing Methods; Business Development & Strategy."
+  },
+  {
+    "question": "What is the focus of the AI Engineering department?",
+    "answer": "Development processes plus evaluation and test methods for AI-based components and systems in safety-critical applications, including integration into decentralized DevOps environments (AI-in-the-loop) and research on human-in-the-loop interaction."
+  },
+  {
+    "question": "Which application areas does the AI Engineering department highlight as typical safety-critical domains?",
+    "answer": "Critical infrastructures, transport, energy, and aerospace."
+  },
+  {
+    "question": "What does the institute mean by integrating results into 'AI-in-the-loop' DevOps environments?",
+    "answer": "It refers to integrating engineering and AI methods into decentralized DevOps settings to improve connectivity, resilience, and cost-effectiveness of AI across the lifecycle."
+  },
+  {
+    "question": "What is the goal of the Algorithms & Hybrid Solutions department?",
+    "answer": "To develop AI methods and technologies that are demonstrably safe in terms of safety and security and that can be embedded in distributed data and service ecosystems, combining social, human, and technological perspectives."
+  },
+  {
+    "question": "How does the institute describe 'hybrid solutions' in this department?",
+    "answer": "As approaches that combine data-driven AI with human observations/experience and combine sub-symbolic and symbolic AI methods to synthesize safe and explainable systems."
+  },
+  {
+    "question": "What is the emphasis of the Safety-Critical Data Infrastructures department?",
+    "answer": "Data and information quality and the foundations for secure, distributed data infrastructures, including IT security, data encryption, and privacy-preserving/privacy-enhancing technologies (PET)."
+  },
+  {
+    "question": "What two core areas does the Safety-Critical Data Infrastructures department focus on?",
+    "answer": "Developing intelligent, distributed infrastructures for secure and reliable exchange of data/services, and providing methods/technologies for trustworthy data use and secure data exchange in complex environments."
+  },
+  {
+    "question": "What is the department 'Execution Environments & Innovative Computing Methods' concerned with?",
+    "answer": "Attack-proof and robust AI by securing the entire computing environment, including implementing and securing AI models close to hardware and exploring innovative computing such as quantum computing."
+  },
+  {
+    "question": "Which computing platforms are explicitly mentioned as part of the execution environment focus?",
+    "answer": "Mainframes, mobile devices, and quantum computers."
+  },
+  {
+    "question": "What example project is named on the execution environments department page?",
+    "answer": "Gaia-X 4 Future Mobility, mentioned in the context of securing virtual platforms for integrating AI modules in vehicle technology."
+  },
+  {
+    "question": "What does the Business Development & Strategy department do in the institute?",
+    "answer": "It continuously analyzes the AI research field, networks AI science and industry, coordinates trans-/interdisciplinary research on ELSA topics, and supports trustworthy AI, social acceptance, and technology transfer."
+  },
+  {
+    "question": "What does ELSA stand for on the institute's Business Development & Strategy page?",
+    "answer": "Ethical, Legal and Social Aspects."
+  },
+  {
+    "question": "According to the Research & Transfer overview, what are the institute's main focus areas?",
+    "answer": "Safe and standard-compliant AI; cyber security in open data and service ecosystems and AI; and autonomous mobility and logistics facilitation."
+  },
+  {
+    "question": "Where are the institute's interdisciplinary teams based, according to Research & Transfer?",
+    "answer": "In Sankt Augustin and Ulm."
+  },
+  {
+    "question": "In the 'Safe and standard-compliant AI' research topic, which properties of trustworthy AI systems are explicitly listed?",
+    "answer": "Explainability, interpretability, fairness, and transparency."
+  },
+  {
+    "question": "In the 'Cybersecurity and Resilience for AI' research topic, what does the institute say it analyzes to derive security measures?",
+    "answer": "The impact of intentional and unintentional manipulation on AI systems, in order to derive appropriate security measures and support resilience."
+  },
+  {
+    "question": "In the 'Quantum AI & Execution Environments' research topic, what expertise areas are named as a basis for development?",
+    "answer": "Tensor networks, quantum neural networks, and quantum reservoir computing."
+  },
+    {
+    "question": "What is DLR?",
+    "answer": "DLR (German Aerospace Center) is Germany's research and technology centre for aeronautics and space, energy, transport, and security and defence."
+  },
+  {
+    "question": "What does DLR mean by “Knowledge for the future”?",
+    "answer": "It describes DLR's role in generating scientific and technological innovations that extend beyond the laboratory and strengthen Germany's position as a leading location for research and industrial innovation."
+  },
+  {
+    "question": "Who benefits from DLR's work?",
+    "answer": "DLR says its innovations benefit industry and the economy, government agencies, and the public sector."
+  },
+  {
+    "question": "How does DLR aim to serve society beyond research?",
+    "answer": "DLR emphasizes intensive knowledge exchange and technology transfer to move technologies and insights into real-world applications."
+  },
+  {
+    "question": "What are DLR's main research areas listed under Research & Transfer?",
+    "answer": "Aeronautics, Space, Energy, and Transport."
+  },
+  {
+    "question": "Which cross-divisional research areas does DLR highlight on the Research & Transfer page?",
+    "answer": "Security and defence, and Digitalisation."
+  },
+  {
+    "question": "What is the purpose of DLR's “Innovation and transfer” focus?",
+    "answer": "DLR links research and innovation processes to contribute sustainable solutions to environmental, technological, economic, and geopolitical challenges—supporting prosperity and security."
+  },
+  {
+    "question": "What is the German Space Agency at DLR?",
+    "answer": "It acts as Germany's space agency and implements the Federal Government's space strategy; it coordinates German space activities at national and European levels and represents German space interests worldwide on behalf of the Federal Government."
+  },
+  {
+    "question": "Where is the German Space Agency at DLR based and approximately how large is it (according to the Space page)?",
+    "answer": "It is based in Bonn and has approximately 300 employees."
+  },
+  {
+    "question": "How many DLR institutes are involved in space research (as stated on the Space page)?",
+    "answer": "The Space page states that more than 20 institutes are involved in space research at DLR."
+  },
+  {
+    "question": "What does DLR say about digitalisation as a research area?",
+    "answer": "DLR describes digitalisation as a cross-sectoral area that develops tools for aeronautics, space, energy, transport and security to help Germany shape the digital future."
+  },
+  {
+    "question": "How does DLR describe its security and defence research approach?",
+    "answer": "DLR says its security and defence research brings together R&D activities from aeronautics, space, energy and transport, coordinated with public stakeholders and partners in government, academia and industry."
+  },
+  {
+    "question": "What does DLR say is a statutory task related to research infrastructure?",
+    "answer": "DLR states that the construction and operation of large-scale research facilities is a statutory task of the German Aerospace Center."
+  },
+  {
+    "question": "What types of assets does DLR list as part of its research infrastructure?",
+    "answer": "DLR includes large-scale research facilities, as well as research aircraft and helicopters, enabling research across its fields including digitalisation."
+  },
+  {
+    "question": "What is “Systemhaus Technik” at DLR (as described on the research infrastructure page)?",
+    "answer": "DLR describes Systemhaus Technik as a unit specializing in building scientific equipment, including the development and manufacture of complex, unique devices, with lifecycle support."
+  },
+  {
+    "question": "What was DLR's budget for research and operations in the 2024 financial year (as stated on the About us page)?",
+    "answer": "DLR states its budget for research and operations in 2024 was 1,701 million euros."
+  },
+  {
+    "question": "How much third-party funding did DLR report for 2024 (About us page)?",
+    "answer": "DLR states that 801.9 million euros of its 2024 research and operations budget was third-party funding acquired through competition."
+  },
+  {
+    "question": "What space and aeronautics in-house R&D budgets does DLR list for 2024 (About us page)?",
+    "answer": "DLR lists 545.6 million euros for in-house space-sector R&D and 422.2 million euros for aeronautics research in 2024."
+  },
+  {
+    "question": "What total budget does DLR report for the German Space Agency at DLR in 2024 (excluding EUMETSAT)?",
+    "answer": "DLR reports the German Space Agency at DLR had a total budget of around 1,578 million euros in 2024 (excluding EUMETSAT)."
+  },
+  {
+    "question": "What mission and scale does DLR highlight on its sustainability facts-and-figures page?",
+    "answer": "DLR says its 10,000 employees share a mission to explore Earth and space and develop technologies for a sustainable future, and it references 55 research institutes and facilities contributing to solutions for global changes in climate, mobility and technology."
+  }
+]

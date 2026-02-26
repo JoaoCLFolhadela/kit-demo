@@ -95,6 +95,6 @@ def main():
 
 if __name__ == "__main__":
     from torchvision import datasets
-
-    ds = datasets.MNIST(root="input", train=True, download=True)
-    #main()
+    datasets.MNIST(root="./data", train=True, download=True)
+    datasets.MNIST(root="./data", train=False, download=True)
+    # main()
