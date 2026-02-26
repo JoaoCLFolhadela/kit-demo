@@ -1,1 +1,0 @@
-Augments MNIST data. Input should be MNIST data, outputs MNIST data
